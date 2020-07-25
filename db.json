@@ -1,0 +1,11 @@
+{
+  "checkpoint": [
+    { "cp":1, "sales":1100},
+    { "cp":2, "sales":1400 },
+    { "cp":3, "sales":2600 }
+  ],
+  "price": [
+    { "id":1, "product":10, "giftcard":5 }
+  ],
+  
+}
